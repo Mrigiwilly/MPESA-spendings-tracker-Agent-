@@ -1,0 +1,37 @@
+{
+  "transactions": [
+    {
+      "amount": 1500,
+      "type": "sent",
+      "recipient": "stem kirigi",
+      "balance": 5234.5,
+      "transactionId": null,
+      "timestamp": "2026-05-04T06:30:02.750Z",
+      "rawMessage": "You have sent KSh1,500 to stem kirigi. Balance is KSh5,234.50",
+      "category": "Other",
+      "id": "1777876202760-i3lqgpvei"
+    },
+    {
+      "amount": 50,
+      "type": "payment",
+      "recipient": "Safaricom",
+      "balance": 7184.5,
+      "transactionId": null,
+      "timestamp": "2026-05-04T06:30:02.753Z",
+      "rawMessage": "KSh50 paid to Safaricom for airtime. Balance is KSh7,184.50",
+      "category": "Bills",
+      "id": "1777876202762-e0art7ask"
+    },
+    {
+      "amount": 2000,
+      "type": "received",
+      "recipient": "savannah kioko",
+      "balance": 9184.5,
+      "transactionId": null,
+      "timestamp": "2026-05-04T06:30:02.754Z",
+      "rawMessage": "You have received KSh2,000 from savannah kioko. Balance is KSh9,184.50",
+      "category": "Income",
+      "id": "1777876202763-krps8uulu"
+    }
+  ]
+}
