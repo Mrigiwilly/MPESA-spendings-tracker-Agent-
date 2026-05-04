@@ -1,0 +1,23 @@
+{
+  "name": "mpesa-transaction-analyzer",
+  "version": "1.0.0",
+  "description": "Agent that analyzes M-Pesa transactions and categorizes spending",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node index.js",
+    "dev": "node -e \"require('./index.js').run()\""
+  },
+  "keywords": [
+    "mpesa",
+    "transactions",
+    "analyzer",
+    "categorization",
+    "spending"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "readline": "^1.3.0"
+  }
+}

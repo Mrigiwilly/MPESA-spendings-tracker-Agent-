@@ -1,0 +1,59 @@
+{
+  "transactions": [
+    {
+      "id": "1704067800000-a1b2c3d4e",
+      "amount": 500,
+      "type": "sent",
+      "recipient": "stem kirigi",
+      "category": "Personal",
+      "balance": 5234.50,
+      "transactionId": "AB1234567890",
+      "timestamp": "2024-01-01T10:30:00.000Z",
+      "rawMessage": "You have sent KSh500 to stem kirigi. Balance is KSh5,234.50"
+    },
+    {
+      "id": "1704068100000-f5g6h7i8j",
+      "amount": 50,
+      "type": "payment",
+      "recipient": "Safaricom",
+      "category": "Bills",
+      "balance": 5184.50,
+      "transactionId": "AB1234567891",
+      "timestamp": "2024-01-01T10:35:00.000Z",
+      "rawMessage": "KSh50 paid to Safaricom for airtime. Balance is KSh5,184.50"
+    },
+    {
+      "id": "1704068400000-k9l0m1n2o",
+      "amount": 300,
+      "type": "sent",
+      "recipient": "Uber Driver",
+      "category": "Transport",
+      "balance": 4884.50,
+      "transactionId": "AB1234567892",
+      "timestamp": "2024-01-01T10:40:00.000Z",
+      "rawMessage": "You have sent KSh300 to Uber Driver. Balance is KSh4,884.50"
+    },
+    {
+      "id": "1704068700000-p3q4r5s6t",
+      "amount": 250,
+      "type": "sent",
+      "recipient": "Java House",
+      "category": "Food",
+      "balance": 4634.50,
+      "transactionId": "AB1234567893",
+      "timestamp": "2024-01-01T10:45:00.000Z",
+      "rawMessage": "You have sent KSh250 to Java House. Balance is KSh4,634.50"
+    },
+    {
+      "id": "1704069000000-u7v8w9x0y",
+      "amount": 2000,
+      "type": "received",
+      "recipient": "Employer",
+      "category": "Income",
+      "balance": 6634.50,
+      "transactionId": "AB1234567894",
+      "timestamp": "2024-01-01T11:00:00.000Z",
+      "rawMessage": "You have received KSh2,000 from Employer. Balance is KSh6,634.50"
+    }
+  ]
+}
